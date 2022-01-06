@@ -1,0 +1,6 @@
+G:\源码\Official Visual Studio 2008 C# Samples\XQuery\C#\bin\Debug\Data\bib.xml
+G:\源码\Official Visual Studio 2008 C# Samples\XQuery\C#\bin\Debug\XQuery.exe
+G:\源码\Official Visual Studio 2008 C# Samples\XQuery\C#\bin\Debug\XQuery.pdb
+G:\源码\Official Visual Studio 2008 C# Samples\XQuery\C#\obj\Debug\XQuery.csprojResolveAssemblyReference.cache
+G:\源码\Official Visual Studio 2008 C# Samples\XQuery\C#\obj\Debug\XQuery.exe
+G:\源码\Official Visual Studio 2008 C# Samples\XQuery\C#\obj\Debug\XQuery.pdb
